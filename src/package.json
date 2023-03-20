@@ -1,0 +1,21 @@
+{
+  "name": "stock-operation-taxer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/interfaces/std.operation.taxer.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/interfaces/std.operation.taxer.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.20.2",
+    "@types/node": "^18.15.3",
+    "jest": "^29.5.0"
+  },
+  "dependencies": {
+    "babel-jest": "^29.5.0",
+    "ts-jest": "^29.0.5"
+  }
+}
